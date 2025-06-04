@@ -12,7 +12,7 @@ Enchentes urbanas são eventos cada vez mais frequentes no Brasil, causando prej
 
 ## 💧 Visão Geral da Solução
 
-O projeto HydroSafe é um protótipo funcional desenvolvido com Arduino que tem como objetivo realizar o **monitoramento de nível de água em tempo real**, utilizando sensores conectados ao Arduino para medir a distância do nível de água, com interface em LCD e armazenamento em EEPROM. Ele fornece **alertas visuais e sonoros**, grava eventos de risco em **memória EEPROM**, e utiliza um **módulo RTC** para marcar a hora e data de cada leitura crítica. Com a ideia de prevenir desastres maiores causados pelas enchentes.
+O projeto FalaHydro é um protótipo funcional desenvolvido com Arduino que tem como objetivo realizar o **monitoramento de nível de água em tempo real**, utilizando sensores conectados ao Arduino para medir a distância do nível de água, com interface em LCD e armazenamento em EEPROM. Ele fornece **alertas visuais e sonoros**, grava eventos de risco em **memória EEPROM**, e utiliza um **módulo RTC** para marcar a hora e data de cada leitura crítica. Com a ideia de prevenir desastres maiores causados pelas enchentes.
 
 O projeto foi desenvolvido como parte da Global Solution da disciplina de Edge Computing no curso de Engenharia de Software - FIAP (2025). Com foco nas Enchentes no Brasil.
 
@@ -174,7 +174,7 @@ Máximo de 100 registros (600 bytes dos 1024 disponíveis na EEPROM do UNO).
 
 ## 📌 Conclusão
 
-HydroSafe é uma solução eficiente, replicável e educativa para monitoramento de enchentes. Ideal para comunidades vulneráveis, escolas técnicas e prototipagem em engenharia.
+FalaHydro é uma solução eficiente, replicável e educativa para monitoramento de enchentes. Ideal para comunidades vulneráveis, escolas técnicas e prototipagem em engenharia.
 
 > **“Prevenção Inteligente de Enchentes.”**
 

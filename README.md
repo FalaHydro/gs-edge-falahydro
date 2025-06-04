@@ -18,7 +18,7 @@ O projeto foi desenvolvido como parte da Global Solution da disciplina de Edge C
 
 ## 💻 Circuito
 
-![Esquema do circuito](https://i.imgur.com/ZXQZ4wx.png)
+![Esquema do circuito](./gs-FalaHydro/img/imagem-circuitoGS.png)
 
 ---
 

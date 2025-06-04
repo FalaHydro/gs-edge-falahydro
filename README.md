@@ -94,8 +94,8 @@ Você pode montar o circuito com base nos seguintes pontos:
         ├── gs-edge.ino               # Código-fonte comentado (Arduino C++)
         ├── diagram.json               
         └── img/                      # Prints do circuito e LCD
-            ├── img-circuito1.png
-            └── img-circuito2.png
+            ├── img-circuitoGS.png
+            └── img-circuito2GS.png
     ├── README.md                     # Este arquivo
     ├── libraries.txt                 # Livrarias utilizadas
     └── wokwi-project.txt             # Link para simulação no Wokwi

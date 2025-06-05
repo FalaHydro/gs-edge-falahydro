@@ -159,7 +159,7 @@ Máximo de 100 registros (600 bytes dos 1024 disponíveis na EEPROM do UNO).
 
 ## 📽️ Vídeo Explicativo
 
-📺 Assista ao vídeo explicando o projeto: [Link para o vídeo](https://youtu.be/s1YcKbS_FjU?si=RLxZdAGxY7t1xoHK)
+📺 Assista ao vídeo explicando o projeto: [Link para o vídeo](https://youtu.be/bkvMCNXYTHo?si=Mq1W2oRdA_P9R628)
 
 ---
 
